@@ -36,6 +36,8 @@ export default defineConfig({
               items: [
                 { text: "Customer Placing Largest Number of Orders", link: "/sql/Level 2/Q1_CustomerPlacingLargestNumberOfOrders" },
                 { text: "Classes With at Least 5 Students", link: "/sql/Level 2/Q2_ClassWithAtleastFiveStudents" },
+                { text: "Monthly Transactions I", link: "/sql/Level 2/Q3_MonthlyTransactions_I" },
+                { text: "User Activity for the Past 30 Days I", link: "/sql/Level 2/Q4_UserActivityForThePast30Days_I" },
               ],
             },
           ],
